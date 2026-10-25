@@ -11,6 +11,6 @@ div li{
 li.done{
     color:seagreen;
 }
-li p.done{
+ul p.done{
     font-size: 0.5rem;
 }
